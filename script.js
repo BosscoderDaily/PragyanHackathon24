@@ -32,6 +32,7 @@ function renderPredictions(predictions, canvas, carCountSpan) {
 
   predictions.forEach(prediction => {
       if (prediction.class === 'car' && prediction.score >= 0.5) {
+       
           // Draw bounding box
           ctx.beginPath();
           ctx.rect(
@@ -52,7 +53,7 @@ function renderPredictions(predictions, canvas, carCountSpan) {
 
           // Count recognized cars
           carCount++;
-       google.script.run.doPost(1);
+       
       }
   });
 
