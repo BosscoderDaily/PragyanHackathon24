@@ -52,6 +52,7 @@ function renderPredictions(predictions, canvas, carCountSpan) {
 
           // Count recognized cars
           carCount++;
+       google.script.run.doPost(carCount);
       }
   });
 
