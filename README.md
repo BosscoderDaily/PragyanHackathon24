@@ -1,6 +1,8 @@
 # Smart Traffic System Managament System
 *The Tetralogy's submission for the Pragyan Hackathon '24*
 
+### Visit (here)[https://bosscoderdaily.github.io/PragyanHackathon24/] and show the camera pictures of cars or a road with cars or cars themselves to have a quick demo of how our model works before we dive in.
+
 ## Introduction
 
 In an age of excruciatingly exasperating amounts of traffic on the roads and a still developing system to tackle this issue, the rise of AI and machine leanring and its utility in day-to-day use cases can very easily provide to be a plausible solution to the management of traffic in urban cities and populous towns. As we step towards futuristic cities with smart application of Language models, we believe our **- Smart Traffic Signal Management System -** is an efficient, low-cost and high-utility solution which can be established by ***local communities and municipality managements or local governing bodies*** to improve the traffic conditions of the region. There are two parts in the project; the AI Traffic Signal and the Public Transport Assistant.
